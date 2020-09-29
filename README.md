@@ -1,4 +1,4 @@
-# nuxt_reference
+# nuxt_template
 
 ## Build Setup
 
